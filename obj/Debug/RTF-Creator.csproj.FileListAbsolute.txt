@@ -1,0 +1,9 @@
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\bin\Debug\RTF-Creator.exe.config
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\bin\Debug\RTF-Creator.exe
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\bin\Debug\RTF-Creator.pdb
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\obj\Debug\RTF_Creator.Form1.resources
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\obj\Debug\RTF_Creator.Properties.Resources.resources
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\obj\Debug\RTF-Creator.csproj.GenerateResource.Cache
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\obj\Debug\RTF-Creator.exe
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\obj\Debug\RTF-Creator.pdb
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\RTF-Creator\obj\Debug\RTF-Creator.csprojResolveAssemblyReference.cache
